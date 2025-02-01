@@ -92,6 +92,14 @@ The `shippings.csv` file contains shipping details:
 
 * * * * *
 
+ERD Diagram
+---------------
+
+![alt text](image.png)
+
+
+* * * * *
+
 Data Generation
 ---------------
 
