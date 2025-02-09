@@ -110,7 +110,7 @@ def generate_ecommerce_data(file_sizes_mb, output_dir):
             print(f"Generated {table_name} CSV with actual size: {os.path.getsize(os.path.join(size_dir, f'{table_name}.csv')) / (1024 * 1024):.2f}MB")
 
 # Example usage
-file_sizes_mb = [1,10,150,300,500,1100]  # Adjust as needed
+file_sizes_mb = [150,300,500,1100]  # Adjust as needed
 output_directory = "/content/ecommerce_data"
 
 generate_ecommerce_data(file_sizes_mb, output_directory)
