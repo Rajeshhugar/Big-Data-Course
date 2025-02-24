@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sat Feb 08 08:44:11 IST 2025:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0194-e38c-ec21-000002406440 
+on database directory C:\Users\hugar\Desktop\DATA_ENGINEERING\Big-Data-Course\Big Data With AWS & Azure\Class 12 - Spark Caching\metastore_db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2a139a55 
+Loaded from file:/C:/spark/spark-3.5.3-bin-hadoop3/jars/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=17.0.12+8-LTS-286
+user.dir=C:\Users\hugar\Desktop\DATA_ENGINEERING\Big-Data-Course\Big Data With AWS & Azure\Class 12 - Spark Caching
+os.name=Windows 11
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
