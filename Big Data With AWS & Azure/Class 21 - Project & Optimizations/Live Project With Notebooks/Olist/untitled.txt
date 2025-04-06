@@ -1,0 +1,12 @@
+Mayank I think before the class ended last time. we where discussing imputation where we deliberately made some values None and tried to verify the values.Doesnt this indirectly make it a prediction problem essentially a regression/classification problem? So why would mean /median/knn be appropriate?
+
+
+
+there are many ways to perform same function in pyspark, how can we understand which would be the best approach or best practice. 
+
+
+Mayank are you suggesting detailed eda for each feature? just thinking practicality if that happens in industry especially when we frequently see more than 50 features or so for many use cases. 
+
+
+In big data do we do analytics this way only ?
+using advance query , or we have other tools for that as well
